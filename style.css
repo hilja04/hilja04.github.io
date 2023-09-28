@@ -1,19 +1,11 @@
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #333;
-    font-weight: bold;
-}
-
-nav a:hover {
-    color: #ff6600;
-}
+ body {
+        background-color: #be9dbc;
+        font-family: "lato", Geneva, Tahoma, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 28px;
+        color: #150b0b;
+        letter-spacing: inherit;
+    }
+   
+      
