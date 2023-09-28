@@ -1,5 +1,19 @@
-<style>
-    body {
-        background-color: #bca3d4; /* Taustaväri */
-        color: #121010; /* Tekstin väri */
-    }
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ff6600;
+}
