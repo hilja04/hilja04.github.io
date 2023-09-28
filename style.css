@@ -1,11 +1,12 @@
- body {
-        background-color: #be9dbc;
-        font-family: "lato", Geneva, Tahoma, sans-serif;
-        font-size: 14px;
-        font-weight: 400;
-        line-height: 28px;
-        color: #150b0b;
-        letter-spacing: inherit;
-    }
-   
-      
+  body {background-color: rgb(0, 0, 0);}
+    h1  {color: rgb(238, 21, 21);
+        text-align: center;}
+
+    p { text-align: center;}
+    h2  {color: rgb(193, 19, 28);
+        text-align: center;}
+    h3  {color: rgb(197, 35, 44);
+        text-align: center;}
+
+    p    {color: rgb(243, 243, 242);}
+    
