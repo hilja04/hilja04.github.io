@@ -1,24 +1,37 @@
   body {background-color: rgb(135, 81, 160);}
     h1  {color: rgb(0, 0, 0);
         text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
     }
-
+img {display: block;
+margin-left: auto;
+margin-right: auto;
+}
     p { text-align: center;}
     h2  {color: black;
-        text-align: center;}
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif}
     h3  {color: black;
-        text-align: center;}
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif}
    h4  {color: black;
-    text-align: center;}
+    text-align: center;
+font-family: Arial, Helvetica, sans-serif}
+    
    
 
     p    {color: black;}
     ul{list-style-type: none;
-     margin:0;
-     padding:0;
+     margin: 0;
+     padding: 20px 0;
      overflow: hidden;
      background-color: #4e045a;
+     font-family: Arial, Helvetica, sans-serif;
      
+}
+li {
+    float: left;
+    margin-right: 150px; 
 }
 li {
     float:left
@@ -28,10 +41,11 @@ color: rgb(240, 230, 230);
 text-align: center;
 padding:14px 16px;
 text-decoration: none;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
 }
 li a:hover {background-color: #111;
     
-      
       
     
        
