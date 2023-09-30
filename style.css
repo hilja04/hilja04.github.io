@@ -2,6 +2,7 @@
     h1  {color: rgb(0, 0, 0);
         text-align: center;
         font-family: Arial, Helvetica, sans-serif;
+        font: size 40px;
     }
 img {display: block;
 margin-left: auto;
@@ -25,17 +26,19 @@ font-family: Arial, Helvetica, sans-serif}
      margin: 1;
      padding: 20px 0;
      overflow: hidden;
+     text-align: center;
      background-color: #4e045a;
      font-family: Arial, Helvetica, sans-serif;
      
+     
 }
 li {
-    float: left;
-    margin-right: 140px; 
+    float: none;
+    display: inline-block; 
+    margin-right: 20px; 
 }
-li {
-    float:right
-}
+
+
 li a{display: block;
 color: rgb(240, 230, 230);
 text-align: center;
@@ -45,7 +48,6 @@ font-size: 20px;
 font-family: Arial, Helvetica, sans-serif;
 }
 li a:hover {background-color: #111;
-    
     
       
     
