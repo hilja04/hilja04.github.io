@@ -39,6 +39,12 @@ img {display: block;
         height: 100px;
         border-radius: 50%;
       }
+      .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+      }
     
 a {
     text-decoration: none;
