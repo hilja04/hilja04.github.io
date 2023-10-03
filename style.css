@@ -94,6 +94,33 @@ font-family: Arial, Helvetica, sans-serif;
 }
 li a:hover
 
-    
-    
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: white;
+}
+    .heart{
+        position:absolute;
+        left:50%;
+        transform:translate(-50%,-50%);
+        height: 100px;
+        width:100px;
+        background-color: red;
+        transform: rotate(45deg);
+        border-radius: 200px 200px 0 0;
+
+    }
+    .heart::before{
+        content:"";
+        position: absolute;
+        top:30px;
+        left: -30px;
+        height: 160px;
+        width:100px;
+        background-color: red;
+        transform: rotate(-90deg);
+        border-radius: 200px 200px 0 0;
+   
        
