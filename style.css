@@ -35,8 +35,8 @@ img {display: block;
     }
     .avatar {
         vertical-align: middle;
-        width: 50px;
-        height: 50px;
+        width: 40px;
+        height: 40px;
         border-radius: 50%;
       }
     
@@ -69,7 +69,7 @@ a {
 
     ul{list-style-type: none;
      margin: 1;
-     padding: 20px 0;
+     padding: 50px 0;
      overflow: hidden;
      text-align: center;
      background-color: #4b073f;
@@ -80,7 +80,7 @@ a {
 li {
     float: none;
     display: inline-block; 
-    margin-right: 20px; 
+    margin-right: 80px; 
 }
 
 
@@ -89,7 +89,7 @@ color: rgb(240, 230, 230);
 text-align: center;
 padding:14px 16px;
 text-decoration: none;
-font-size: 20px;
+font-size: 40px;
 font-family: Arial, Helvetica, sans-serif;
 }
 li a:hover
