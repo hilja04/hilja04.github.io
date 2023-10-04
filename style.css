@@ -3,7 +3,7 @@
         text-align: center;
         font-style: italic;
         font-family:Arial, Helvetica, sans-serif;
-        font-size: 60px;
+        font-size: 70px;
     }
    
 
@@ -12,8 +12,19 @@
     padding-left: 150px;
     padding-right: 150px;
     color:white;
-   
     }
+    dl{
+     
+    font-size: 30px;
+    padding-left: 180px;
+    padding-right: 150px;
+    color:white;
+    }
+    dd{
+      font-size: 25px;
+      
+    }
+    
    
 
     h2  {color: white;
@@ -50,8 +61,8 @@ a {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
-    font-size: 20px;
-    color:blue;
+    font-size: 25px;
+    color:rgb(124, 135, 215);
     font-family: Arial, Helvetica, sans-serif;
 }
   
